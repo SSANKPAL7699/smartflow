@@ -1,0 +1,51 @@
+LIFNR,NAME1,LAND1,ORT01,PSTLZ,LIFSP,KTOKK,CREATED_ON
+V00001,Andrade Ltd,CN,Wallaceville,64078,,LIFA,2022-08-04
+V00002,Schwartz LLC,CN,Lake Ryan,02829,,LIFA,2023-01-10
+V00003,Whitney-Wilson,IN,Myersmouth,65092,,LIFA,2023-07-25
+V00004,"Sutton, Smith and Hurley",CN,Barnesstad,25715,X,LIFA,2023-10-17
+V00005,"Huffman, Johnson and Gutierrez",JP,Lake Katherineborough,12231,,LIFA,2022-10-30
+V00006,Martinez-Stevens,US,Matthewsfurt,68710,,LIFA,2025-01-24
+V00007,Barry and Sons,IN,Carrstad,31452,X,LIFA,2023-08-28
+V00008,Greene Inc,JP,East Anthony,69899,,LIFB,2022-07-11
+V00009,Fleming-Sharp,IN,Lopezhaven,99609,,LIFB,2022-12-06
+V00010,"Briggs, Moore and Davis",US,Mooremouth,66261,,LIFB,2021-06-05
+V00011,Stewart and Sons,DE,Lake Barbarahaven,98629,,LIFA,2023-12-20
+V00012,Williams-Wright,IN,Lake Ronniestad,85305,,LIFA,2024-10-24
+V00013,Jones-Ramirez,US,Mcdonaldside,46464,,LIFA,2022-01-17
+V00014,Wilson-Jenkins,DE,Port Kevin,12043,,LIFB,2024-03-11
+V00015,Oneal-Stevens,US,Nicholasshire,18219,X,LIFB,2023-02-13
+V00016,"Bond, Brooks and Richards",JP,Christinaborough,24179,,LIFB,2022-07-29
+V00017,Roberts LLC,US,Michelleview,06978,X,LIFB,2022-06-28
+V00018,"Swanson, Allen and Harrison",CN,North Sarah,41413,X,LIFB,2024-10-17
+V00019,"Mills, Mcdonald and Bailey",JP,North Victorville,79516,,LIFA,2022-04-26
+V00020,Foster-Fleming,US,New Andrew,75744,X,LIFA,2022-07-19
+V00021,"Silva, Lang and Maynard",DE,West Ronald,03383,,LIFA,2021-05-21
+V00022,"Ward, Rogers and Thomas",US,East Matthewmouth,04219,,LIFB,2021-09-20
+V00023,Wilson-Mitchell,GB,South Juanfurt,89585,X,LIFB,2024-07-26
+V00024,"Mitchell, Brown and Oneal",IN,South Thomas,72473,,LIFB,2023-07-25
+V00025,Matthews-Foley,IN,Lake Sarahhaven,66977,X,LIFB,2023-10-07
+V00026,Clarke-Mitchell,CN,Port Joelside,10105,X,LIFA,2023-03-30
+V00027,Archer-Allen,JP,Franciscofort,24176,X,LIFA,2022-06-24
+V00028,Daniels Ltd,JP,Owenberg,15438,X,LIFA,2021-08-24
+V00029,"Ball, Hughes and Floyd",IN,Douglasview,26184,,LIFB,2022-01-08
+V00030,Clark LLC,DE,Brianborough,49825,X,LIFA,2024-08-10
+V00031,Guerra-Conway,CN,Warrentown,16552,,LIFA,2024-02-09
+V00032,"Adams, Thornton and Watson",IN,Samanthatown,77181,,LIFB,2024-10-28
+V00033,Lewis Group,GB,South Christy,21426,,LIFA,2022-02-16
+V00034,"Webb, Montgomery and Nelson",IN,Lake Kaylabury,02148,X,LIFB,2025-02-02
+V00035,Collins Group,IN,Garciaside,78333,X,LIFB,2024-06-25
+V00036,Liu LLC,GB,Jonesmouth,93257,X,LIFB,2022-03-02
+V00037,Wright-Griffith,IN,Johnsontown,90026,,LIFA,2024-06-21
+V00038,"Garcia, King and Humphrey",IN,New Breannaton,70244,X,LIFB,2023-10-13
+V00039,Drake-Lane,CN,New Davidhaven,30536,X,LIFB,2023-01-06
+V00040,"Taylor, Price and Johnson",JP,New Anthony,41151,,LIFB,2021-09-13
+V00041,Riggs-Roberts,IN,Lake Sarah,74001,,LIFB,2024-02-02
+V00042,Martin PLC,US,Mooreberg,72605,,LIFA,2025-03-28
+V00043,Brown-Thomas,IN,Rosalesmouth,44549,X,LIFA,2022-05-19
+V00044,Lopez LLC,CN,West David,90061,,LIFA,2024-01-26
+V00045,Riley-Byrd,GB,South Kristaton,74452,,LIFB,2024-06-17
+V00046,"Barnes, Jones and Bryant",JP,Phillipville,61590,,LIFA,2024-10-03
+V00047,Spencer LLC,CN,South Rebecca,81259,X,LIFA,2024-07-06
+V00048,Lowe-Hernandez,CN,Katherineburgh,47177,X,LIFB,2023-08-29
+V00049,"Scott, Pratt and Mann",CN,West Robertberg,78503,,LIFA,2023-01-25
+V00050,Stevens-Simon,DE,East Ashleeside,15145,,LIFA,2023-09-09
