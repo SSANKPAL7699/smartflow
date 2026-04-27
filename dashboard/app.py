@@ -12,8 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_BASE = "http://localhost:8000/api"
-
+API_BASE = "https://smartflow-l7u6.onrender.com/api"
 # ── Helper: fetch data from API ───────────────────────────────
 def fetch(endpoint):
     try:
